@@ -14,7 +14,7 @@ Pastikan semua library dengan versi terbaru
 ### Install via CLI (windows)
 - mkdir project
 - cd project
-- git clone https://github.com/revanmd/CNN_SA/archive/master.zip
+- git clone https://github.com/revanmd/CNN_SA.git
 - cd CNN_SA
 - buka spyder ataupun jupyter notebook lalu running code pythonnya. pastikan semua library sudah terinstall
 
