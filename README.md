@@ -18,7 +18,7 @@ Pastikan semua library dengan versi terbaru
 - cd CNN_SA
 - buka spyder ataupun jupyter notebook lalu running code pythonnya. pastikan semua library sudah terinstall
 
-###Install via download zip
+### Install via download zip
 - copy link https://github.com/revanmd/CNN_SA/archive/master.zip
 - paste ke url browser, maka nanti akan langsung mendownload file zip
 - buka spyder ataupun jupyter notebook lalu running code pythonnya. pastikan semua library sudah terinstall
